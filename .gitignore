@@ -1,0 +1,16 @@
+*.asv
+*.png
+*.jpeg
+*.mat
+*.zip
+
+*.rar
+*.gz
+Data
+Data/joint_use
+Data/otheruse
+Data/uiuc
+Data/A
+Data/A_1
+Data/B
+Data/B_1
